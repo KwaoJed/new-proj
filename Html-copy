@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<!-- saved from url=(0075)http://127.0.0.1:52764/New-Websites/RecentBootstrap/combinedbootstrap4.html -->
+<html data-brackets-id="930" lang="en"><head data-brackets-id="931"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Required meta tags -->
+    
+    <meta data-brackets-id="933" name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link data-brackets-id="934" rel="stylesheet" href="./combinedbootstrap4_files/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+  </head>
+     
+    <body data-brackets-id="935">
+
+<nav data-brackets-id="936" class="navbar   navbar-nav bd-navbar-nav flex-row navbar-expand-lg  navbar-light" style="background-color: #e3f2fd;">
+
+  <a data-brackets-id="937" class="navbar-brand" href="http://127.0.0.1:52764/New-Websites/RecentBootstrap/combinedbootstrap4.html#">JEDCORP</a>
+  <button data-brackets-id="938" class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span data-brackets-id="939" class="navbar-toggler-icon"></span>
+  </button>
+  <div data-brackets-id="940" class="navbar-collapse collapse" id="navbarNavDropdown" style="">
+    <ul data-brackets-id="941" class="navbar-nav">
+      <li data-brackets-id="942" class="nav-item active">
+        <a data-brackets-id="943" class="nav-link" href="http://127.0.0.1:52764/New-Websites/RecentBootstrap/combinedbootstrap4.html#">Home <span data-brackets-id="944" class="sr-only">(current)</span></a>
+      </li>
+      <li data-brackets-id="945" class="nav-item">
+        <a data-brackets-id="946" class="nav-link" href="http://127.0.0.1:52764/New-Websites/RecentBootstrap/combinedbootstrap4.html#">Features</a>
+      </li>
+      <li data-brackets-id="947" class="nav-item">
+        <a data-brackets-id="948" class="nav-link" href="http://127.0.0.1:52764/New-Websites/RecentBootstrap/combinedbootstrap4.html#">Pricing</a>
+      </li>
+      <li data-brackets-id="949" class="nav-item dropdown">
+        <a data-brackets-id="950" class="nav-link dropdown-toggle" href="http://127.0.0.1:52764/New-Websites/RecentBootstrap/combinedbootstrap4.html#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Dropdown link
+        </a>
+        <div data-brackets-id="951" class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a data-brackets-id="952" class="dropdown-item" href="http://127.0.0.1:52764/New-Websites/RecentBootstrap/combinedbootstrap4.html#">Action</a>
+          <a data-brackets-id="953" class="dropdown-item" href="http://127.0.0.1:52764/New-Websites/RecentBootstrap/combinedbootstrap4.html#">Another action</a>
+          <a data-brackets-id="954" class="dropdown-item" href="http://127.0.0.1:52764/New-Websites/RecentBootstrap/combinedbootstrap4.html#">Something else here</a>
+        </div>
+      </li>
+    </ul>
+
+         <ul data-brackets-id="955" class="nav navbar-nav   navbar-nav flex-row ml-md-auto d-none d-md-flex">
+                 
+                 <li  data-brackets-id="937" class="nav-item " > <a data-brackets-id="959" href="http://127.0.0.1:52764/New-Websites/RecentBootstrap/combinedbootstrap4.html#">
+                  
+                  <!--Modal -->
+                  <!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+  <span class="border border-primary">  Login</span>
+</button>
+<!--modal function should have started here-->
+
+
+
+
+               </a></li>
+               </ul>
+  </div>
+</nav>
+
+                  <!--Carousel Begins-->
+
+<div data-brackets-id="960" id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div data-brackets-id="961" class="carousel-inner">
+    <div data-brackets-id="962" class="carousel-item">
+                           <img data-brackets-id="963" src="./combinedbootstrap4_files/keythings.jpeg" alt="First slide">
+
+    </div>
+    <div data-brackets-id="964" class="carousel-item active">
+                           <img data-brackets-id="965" src="./combinedbootstrap4_files/key2.jpeg" alt="Second slide">
+
+    </div>
+    <div data-brackets-id="966" class="carousel-item">
+                           <img data-brackets-id="967" src="./combinedbootstrap4_files/the stars.jpeg" alt="Third slide">
+
+    </div>
+  </div>
+  <a data-brackets-id="968" class="carousel-control-prev" href="http://127.0.0.1:52764/New-Websites/RecentBootstrap/combinedbootstrap4.html#carouselExampleControls" role="button" data-slide="prev">
+    <span data-brackets-id="969" class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span data-brackets-id="970" class="sr-only">Previous</span>
+  </a>
+  <a data-brackets-id="971" class="carousel-control-next" href="http://127.0.0.1:52764/New-Websites/RecentBootstrap/combinedbootstrap4.html#carouselExampleControls" role="button" data-slide="next">
+    <span data-brackets-id="972" class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span data-brackets-id="973" class="sr-only">Next</span>
+  </a>
+</div>
+
+<div>
+
+  </div>
+     
+        
+
+
+       
+
+         
+        
+        <!-- Modal -->
+        
+        <!-- NB   
+        the only problem here is that the website proceeds to the agree button first without allowing you to choose and also there seems to be a crash with the carousel so the carousel fails to load an item on the navbar is chosen first-->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Agreement policy</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+             <p>Having gone through the  policy ,I therefore by clicking the "Proceed" button have agreed afore-mentioned and therefore want to proceed to the login page. </p>
+      </div>
+      <div class="modal-footer">
+           <button type="button" class="btn btn-primary">Agree</button>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+       
+      </div>
+    </div>
+  </div>
+</div>
+                   
+           <!--Modal ends here-->
+        
+        
+        
+        <script data-brackets-id="974" src="./combinedbootstrap4_files/jquery-3.3.1.slim.min.js.download" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+
+
+
+<script data-brackets-id="975" src="./combinedbootstrap4_files/popper.min.js.download" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+<script data-brackets-id="976" src="./combinedbootstrap4_files/bootstrap.min.js.download" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+    
+   
+
+    </body></html>
